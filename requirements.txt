@@ -1,0 +1,9 @@
+python-docx==1.2.0
+pyttsx3==2.99
+google-genai
+python-dotenv
+pydantic
+transformers
+torch
+tensorflow
+PyPDF2
